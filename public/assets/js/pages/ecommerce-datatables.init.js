@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".datatable").DataTable(),$(".dataTables_length select").addClass("custom-select custom-select-sm form-control form-control-sm form-select form-select-sm")});

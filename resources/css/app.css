@@ -1,0 +1,9 @@
+input#SameAsAbove {
+    margin-top: 10px;
+    display: inline-grid;
+    grid-template-columns: 1em auto;
+    gap: 0.5em;
+    height: 12px;
+    justify-items: center;
+
+}
